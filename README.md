@@ -7,7 +7,7 @@ La base de datos que utilizamos en este proyecto se llama `ml-latest-small`, y c
 
 ## Reporte del proyecto
 
-El reporte con el marco teórico del proyecto puede encontrarse en [este documento PDF](https://github.com/esteban-mendoza/svd-recommender/blob/master/svd-recommender-report.pdf).
+El reporte del proyecto puede encontrarse en [este documento PDF](https://github.com/esteban-mendoza/svd-recommender/blob/master/svd-recommender-report.pdf).
 
 ## Código interactivo
 
