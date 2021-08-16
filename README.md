@@ -11,7 +11,7 @@ El reporte del proyecto puede encontrarse en [este documento PDF](https://github
 
 ## Código interactivo
 
-Para una versión interactiva del código refiérase a esta [_notebook_ en Google Colab](https://colab.research.google.com/github/esteban-mendoza/svd-recommender/blob/master/svd-recommender.ipynb).
+Para una versión interactiva del código implementado refiérase a esta [_notebook_ en Google Colab](https://colab.research.google.com/github/esteban-mendoza/svd-recommender/blob/master/svd-recommender.ipynb).
 
 ## Versiones de software utilizadas
 
