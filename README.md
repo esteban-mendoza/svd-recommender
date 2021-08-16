@@ -1,5 +1,5 @@
 # Factorización de matrices para filtrado colaborativo
-Autor: [Jorge Esteban Mendoza Ortiz (418002863)](mailto:esteban.mendoza@ciencias.unam.mx) - Facultad de Ciencias. UNAM.
+Autor: [Jorge Esteban Mendoza Ortiz](mailto:esteban.mendoza@ciencias.unam.mx) - Facultad de Ciencias. UNAM.
 
 El presente proyecto tiene por objetivo mostrar cómo se puede utilizar la técnica de descomposición en valores singulares para implementar un sistema recomendador de filtrado colaborativo. 
 
