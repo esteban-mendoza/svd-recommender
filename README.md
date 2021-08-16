@@ -5,6 +5,10 @@ El presente proyecto tiene por objetivo mostrar cómo se puede utilizar la técn
 
 La base de datos que utilizamos en este proyecto se llama `ml-latest-small`, y contiene calificaciones de entre 1 y 5 estrellas de una muestra del sitio [MovieLens](http://movielens.org), un servicio recomendador de películas administrado por el grupo _GroupLens_, un laboratorio de investigación de la Universidad de Minnesota.
 
+## Reporte del proyecto
+
+El reporte con el marco teórico del proyecto puede encontrarse en [este documento PDF](https://github.com/esteban-mendoza/svd-recommender/blob/master/svd-recommender-report.pdf).
+
 ## Código interactivo
 
 Para una versión interactiva del código refiérase a esta [_notebook_ en Google Colab](https://colab.research.google.com/github/esteban-mendoza/svd-recommender/blob/master/svd-recommender.ipynb).
