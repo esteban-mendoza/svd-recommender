@@ -7,7 +7,7 @@ La base de datos que utilizamos en este proyecto se llama `ml-latest-small`, y c
 
 ## Código interactivo
 
-Para una versión interactiva del código refiérase a esta [_notebook_ en Google Colab](https://colab.research.google.com/github/esteban-mendoza/svd-recommender/blob/master/svd-recommender.ipynb)
+Para una versión interactiva del código refiérase a esta [_notebook_ en Google Colab](https://colab.research.google.com/github/esteban-mendoza/svd-recommender/blob/master/svd-recommender.ipynb).
 
 ## Versiones de software utilizadas
 
