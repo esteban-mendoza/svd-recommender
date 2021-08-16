@@ -9,9 +9,9 @@ La base de datos que utilizamos en este proyecto se llama `ml-latest-small`, y c
 
 Python 3.9.6, con las siguientes dependencias:
 
-numpy==1.21.1
-pandas==1.3.1
-matplotlib==3.4.3
-scipy==1.7.1
-scikit-learn==0.24.2
-jupyter==1.0.0
+| numpy==1.21.1        |
+| pandas==1.3.1        |
+| matplotlib==3.4.3    |
+| scipy==1.7.1         |
+| scikit-learn==0.24.2 |
+| jupyter==1.0.0       |
