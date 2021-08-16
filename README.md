@@ -7,8 +7,10 @@ La base de datos que utilizamos en este proyecto se llama `ml-latest-small`, y c
 
 ## Versiones de software utilizadas
 
-Python 3.9.6, con las siguientes dependencias:
+Python 3.9.6, con las siguientes:
 
+| Dependencias         |
+|----------------------|
 | numpy==1.21.1        |
 | pandas==1.3.1        |
 | matplotlib==3.4.3    |
